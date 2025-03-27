@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Android app</string>
+    <string name="happy_birsday_ivan">С днём рождения, Иван</string>
+    <string name="my_name">Волков Иван</string>
+    <string name="cpp_developer">С++ разработчик</string>
+    <string name="phone_text">+79213591464</string>
+    <string name="tg_text">\@influtorm</string>
+    <string name="mail_text">1nflutorm@mail.ru</string>
+</resources>
